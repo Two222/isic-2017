@@ -1,0 +1,6 @@
+# Files should be ignore
+.DS_Store
+
+# Folders should be ignore
+data/
+.ipynb_checkpoints/
